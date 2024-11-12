@@ -17,6 +17,11 @@ main:
   - title: "CV"
     # url: /cv/
     url: /files/CV_Anshika_2024nov.pdf
-    
-  - title: "Fun"
+
+    - title: "Resources"
     url: /markdown/
+    
+  - title: "Travel"
+    url: /markdown/
+    
+    
