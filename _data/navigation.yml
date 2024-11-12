@@ -15,7 +15,8 @@ main:
     url: /teaching/    
     
   - title: "CV"
-    url: /cv/
+    # url: /cv/
+    url: /files/CV_Anshika_2024nov.pdf
     
   - title: "Fun"
     url: /markdown/
