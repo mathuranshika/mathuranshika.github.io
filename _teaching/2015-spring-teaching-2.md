@@ -1,7 +1,5 @@
 ---
-title: "Teaching Assistant"
 collection: teaching
-venue: "Shiv Nadar University"
 ---
 ### Graduate Courses
 -Econometrics II  
