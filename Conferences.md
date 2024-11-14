@@ -1,5 +1,5 @@
 ---
-<span style="color: blue;"title: "Conference"</span>
+title: "Conference"
 ---
 ### 2024
 -21st Midwestern International Economic Development Conference: University of Chicago  
