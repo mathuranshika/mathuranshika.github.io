@@ -1,7 +1,6 @@
 ---
 title: "Conference"
 ---
-
 ### 2024
 -21st Midwestern International Economic Development Conference: University of Chicago  
 -IMR Doctoral Conference: IIM Bangalore (Awarded Best Paper)  
@@ -10,10 +9,8 @@ title: "Conference"
 -Annual Conference on Economic Growth and Development**: ISI Delhi  
 -International Conference on Issues in Economic Theory and Policy: Presidency University  
 
----
-title: "Workshops"
----
-
+Workshops
+======
 ### 2023
 -Association for Mentoring and Inclusion in Economics Mentorship Program (Under Dr.Caroline Krafft and Dr. Girija Bahety)    
 -Geo-statistical Methods for Economic Analysis- IGIDR, Mumbai  
