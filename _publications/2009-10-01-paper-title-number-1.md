@@ -2,7 +2,6 @@
 title: "Money Matters: Evidence from a Conditional Cash Transfer Scheme on Child Health"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
 venue: 'Forthcoming Journal of Human Capital'
 ---
 
