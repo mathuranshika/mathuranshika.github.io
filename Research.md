@@ -1,11 +1,11 @@
 ---
-title: "Publishion"
+title: "Publication"
 ---
 
 ##  Money Matters: Evidence from a Conditional Cash Transfer Scheme on Child Health 
 With [Gitanjali Sen](https://scholar.google.com/citations?user=bbFIXNgAAAAJ&hl=en) 
 
-Forchcoming in *Journal of Human Capital*
+Forthcoming in *Journal of Human Capital*
 
 [Download paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4877346)
 
@@ -30,6 +30,5 @@ With [Gitanjali Sen](https://scholar.google.com/citations?user=bbFIXNgAAAAJ&hl=e
 
 ##  Young Lives, Deep Mines: The Impact of Mineral Proximity on Child Health 
 
-With [Gitanjali Sen](https://scholar.google.com/citations?user=bbFIXNgAAAAJ&hl=en) 
 
 
