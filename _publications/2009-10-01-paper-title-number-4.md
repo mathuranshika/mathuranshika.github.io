@@ -1,6 +1,7 @@
 ---
 title: "Working Papers"
 collection: publications
+category: manuscripts
 ---
 
 The Granny Penalty: Navigating the Challenges of Informal Childcare (with Gitanjali Sen), Submitted  
