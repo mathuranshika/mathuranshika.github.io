@@ -1,9 +1,5 @@
 ---
 title: "Teaching Assistant"
-collection: teaching
-venue: "Shiv Nadar Univeristy"
-date: 2021-2024
-location: "India"
 ---
 
 ### Graduate Courses
