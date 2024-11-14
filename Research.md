@@ -1,8 +1,8 @@
 ---
 title: "Published Papers"
------------
+---
 ##  Money Matters: Evidence from a Conditional Cash Transfer Scheme on Child Health 
-With [Gitanjali Sen](https://scholar.google.com/citations?user=bbFIXNgAAAAJ&hl=en) 
+With [Gitanjali Sen](https://scholar.google.com/citations?user=bbFIXNgAAAAJ&hl=en)  
 Forthcoming in *Journal of Human Capital*    
 [Download paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4877346)  
 **Abstract:**  
