@@ -21,7 +21,7 @@ repository               : "mathuranshika/mathuranshika.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pic2.jpeg"
+  avatar           : "pic2.jpg"
   name             : "Anshika Mathur"
   pronouns         : # example: "she/her"  
   bio              : "Phd student at SNU"
