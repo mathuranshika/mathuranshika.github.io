@@ -1,6 +1,8 @@
 ---
 title: "Conference"
 ---
+### 2025 
+-6th Annual Economics Conference, Ahmedabad University  
 ### 2024
 -21st Midwestern International Economic Development Conference, University of Chicago  
 -IMR Doctoral Conference, IIM Bangalore (Awarded Best Paper)  
