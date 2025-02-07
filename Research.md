@@ -1,6 +1,6 @@
----
-title: "Published Papers"
----
+Published Papers
+-------
+
 ###  [Money Matters: Evidence from a Conditional Cash Transfer Scheme on Child Health](https://www.journals.uchicago.edu/doi/10.1086/734859) 
 With [Gitanjali Sen](https://scholar.google.com/citations?user=bbFIXNgAAAAJ&hl=en)  
 Published in *Journal of Human Capital*    
@@ -18,10 +18,10 @@ With [Gitanjali Sen](https://scholar.google.com/citations?user=bbFIXNgAAAAJ&hl=e
 
 <p align="justify"> Abstract: This study examines the impact of grandchild care on the labor market outcomes of grandparents amid the rapid aging and feminization of the global population. Employing an instrumental variable approach, we find a substantial negative effect on the employment rate of grandmothers, particularly for those cohabiting with their children, while no significant effect is observed for grandfathers. These findings suggest that grandchild caregiving contributes to the gender gap in labor force participation among the elderly, with a more pronounced effect in urban areas. We also find that the reduction in labor supply occurs primarily among younger grandmothers, indicating an early withdrawal from the workforce.</p>
 
-##  Women and the Web: Connectivity and crime against women  
+###  Women and the Web: Connectivity and crime against women  
 With [Gitanjali Sen](https://scholar.google.com/citations?user=bbFIXNgAAAAJ&hl=en) 
 
-##  Young Lives, Deep Mines: The Impact of Mineral Proximity on Child Health 
+### Young Lives, Deep Mines: The Impact of Mineral Proximity on Child Health 
 
 
 
