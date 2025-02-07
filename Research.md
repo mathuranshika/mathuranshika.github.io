@@ -1,6 +1,6 @@
-----
+---
 title: "Published Papers"
-----
+---
 
 ###  [Money Matters: Evidence from a Conditional Cash Transfer Scheme on Child Health](https://www.journals.uchicago.edu/doi/10.1086/734859) 
 With [Gitanjali Sen](https://scholar.google.com/citations?user=bbFIXNgAAAAJ&hl=en)  
@@ -11,7 +11,7 @@ Published in *Journal of Human Capital*
 
 
 Working Papers
--------
+======
 
 ###  The Granny Penalty: Navigating the Challenges of Informal Childcare  
 With [Gitanjali Sen](https://scholar.google.com/citations?user=bbFIXNgAAAAJ&hl=en)  
