@@ -2,7 +2,7 @@
 title: "Conference"
 ---
 ### 2025 
--Research Scholar Day, IIT Kanpur
+-Research Scholar Day, IIT Kanpur  
 -6th Annual Economics Conference, Ahmedabad University  
 ### 2024
 -21st Midwestern International Economic Development Conference, University of Chicago  
