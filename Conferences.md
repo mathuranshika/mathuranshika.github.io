@@ -16,10 +16,11 @@ title: "Conference"
 Workshops
 ======
 ### 2023
--Association for Mentoring and Inclusion in Economics Mentorship Program (Under Dr.Caroline Krafft and Dr. Girija Bahety)    
+-Association for Mentoring and Inclusion in Economics Mentorship Program (Under Dr.Caroline Krafft and Dr. Girija Bahety)      
 -Geo-statistical Methods for Economic Analysis: IGIDR, Mumbai   
 -BREAD IGC Virtual PhD Course on Firms and Development 2023
 
 ### 2022
 -The Art and Science of Doing Research in Development Economics, Indian Statistical Institute, Delhi  
+--Synthetic Control and Clustering with Alberto Abadie  
 
