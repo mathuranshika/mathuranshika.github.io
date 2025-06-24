@@ -13,6 +13,5 @@ I completed my undergraduate studies at Shivaji College, University of Delhi, an
 
 Contact
 ======
-Here is my [CV](assets/files/ShortCV_2025.pdf)
-. You can contact me at: aa708@snu.edu.in or at [Linkedin](https://www.linkedin.com/in/anshika-mathur-0767a7179/) 
+Here is my [CV](assets/files/ShortCV_2025.pdf). You can contact me at: aa708@snu.edu.in or at [Linkedin](https://www.linkedin.com/in/anshika-mathur-0767a7179/) 
 Thanks for visiting my website! 
