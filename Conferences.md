@@ -2,7 +2,7 @@
 title: "Conference"
 ---
 ### 2025 
--11th ECINEQ Conference, World Bank, Washington DC
+-11th ECINEQ Conference, World Bank, Washington DC  
 -Research Scholar Day, IIT Kanpur  
 -6th Annual Economics Conference, Ahmedabad University  
 ### 2024
