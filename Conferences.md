@@ -2,6 +2,7 @@
 title: "Conference"
 ---
 ### 2025 
+-11th SERI Workshop, Shiv Nadar Institute of Eminence  
 -11th ECINEQ Conference, World Bank, Washington DC  
 -Research Scholar Day, IIT Kanpur  
 -6th Annual Economics Conference, Ahmedabad University  
@@ -23,5 +24,5 @@ Workshops
 
 ### 2022
 -The Art and Science of Doing Research in Development Economics, Indian Statistical Institute, Delhi  
---Synthetic Control and Clustering with Alberto Abadie  
+-Synthetic Control and Clustering with Alberto Abadie  
 
