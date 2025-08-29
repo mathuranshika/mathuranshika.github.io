@@ -11,9 +11,9 @@ title: "Published Papers"
 ### From Workforce to Grandparenting: Navigating the Challenges of Informal Childcare (With [Gitanjali Sen](https://scholar.google.com/citations?user=bbFIXNgAAAAJ&hl=en)), *Submitted* 
 <p align="justify"> <small> Abstract: This study estimates the causal impact of grandchild care on the labor market outcomes of grandparents amidst the rapid aging and feminization of the global population. Using an instrumental variable approach, we find that grandchild caregiving in co-residing households significantly reduces the employment rate of grandmothers, while no such effect is observed for grandfathers. Our results provide evidence of the labor supply penalty associated with grandmotherhood, shedding light on the unique challenges faced by elderly women in developing countries, where caregiving duties and co-residence norms are prevalent. Furthermore, we explore how family structure and household earning composition influence caregiving roles and labor supply decisions. These insights are critical for policies aimed at enhancing female labor force participation, especially in regions with limited formal childcare options. </small> </p>
 
-###  Women and the Web: Connectivity and crime against women (With [Gitanjali Sen](https://scholar.google.com/citations?user=bbFIXNgAAAAJ&hl=en))
+### Connectivity and Crime: The Impact of Broadband Availability on Sexual Assaults in India (With [Gitanjali Sen](https://scholar.google.com/citations?user=bbFIXNgAAAAJ&hl=en))
+<p align="justify"> <small> Abstract: We study the impact of internet expansion on crimes against women in rural India by constructing a new geocoded village-level dataset on broadband connectivity.  Exploiting spatial regression discontinuity around the BharatNet rollout boundary, we find that broadband access increases reported sex crimes across media sources, police FIRs, and administrative crime records. We document a rise in cybercrimes, including cyberstalking and the circulation of obscene materials, supported by faster download and upload speeds. We find greater uptake in mass media consumption among males and younger cohorts. Results are robust to alternative specifications and placebo tests, underscoring the need for digital safeguards. </small> </p>
 
-### Young Lives, Deep Mines: The Impact of Mineral Proximity on Child Health 
 
 
 
