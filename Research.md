@@ -1,5 +1,5 @@
 ---
-title: "Published Papers"
+title: "Publications"
 ---
 
 ### [Money Matters: Evidence from a Conditional Cash Transfer Scheme on Child Health](https://doi.org/10.1086/734859) (With [Gitanjali Sen](https://scholar.google.com/citations?user=bbFIXNgAAAAJ&hl=en)) *Journal of Human Capital* (2025): Vol. 19, No. 3, pp. 435–473.
