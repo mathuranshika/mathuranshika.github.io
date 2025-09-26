@@ -1,11 +1,11 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching"
 ---
 
-### Graduate Courses
+### Teaching Assistant Graduate Courses
 -Econometrics II  
 -Game Theory  
-### Undergraduate Courses
+### Teaching Assistant Undergraduate Courses
 -Logic and Scientific Methods  
 -Principles of Macroeconomics  
 -Intermediate Microeconomics  
