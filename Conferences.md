@@ -2,6 +2,7 @@
 title: "Conference"
 ---
 ### 2025 
+-9th Annual CECFEE Research and Policy Workshop
 -11th SERI Workshop, Shiv Nadar Institute of Eminence  
 -11th ECINEQ Conference, World Bank, Washington DC  
 -International Conference on Trade and Environment, Shiv Nadar Institute of Eminence, _(Discussant)_  
