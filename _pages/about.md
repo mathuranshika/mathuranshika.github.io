@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p align="justify">
-I am a final year Ph.D. candidate in Economics at Shiv Nadar Institution of Eminence and am currenlty on the Job Market. I completed my undergraduate studies from University of Delhi, and my Master’s in Economics from Dr. B. R. Ambedkar University, Delhi. My research interests include health, gender, and labor economics. My dissertation, _“Essays on the Intersection of Gender and Development: Cash Transfers, Care Work, and Connectivity”,_ examines how social norms, state programs, and institutional capacity create complex dynamics that shape human capital formation in traditional settings.
+I am a final year Ph.D. candidate in Economics at Shiv Nadar Institution of Eminence and am currenlty on the Job Market. I completed my undergraduate studies from University of Delhi, and my Master’s in Economics from Dr. B. R. Ambedkar University, Delhi. My research interests include health, gender, and labor economics. My dissertation, “Essays on the Intersection of Gender and Development: Cash Transfers, Care Work, and Connectivity”, examines how social norms, state programs, and institutional capacity create complex dynamics that shape human capital formation in traditional settings.
 </p>
 
 Here is my <a href="https://mathuranshika.github.io/files/CV_AnshikaMathur.pdf" target="_blank" rel="noopener noreferrer">CV</a>.
