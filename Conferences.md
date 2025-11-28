@@ -5,7 +5,7 @@ title: "Conference"
 -Global GLO-JOPE Conference, Bonn, Germany  
 -20th Annual Conference on Economic Growth and Development, Indian Statistical Institute, Delhi  
 -5th International Conference on Issues in Economic Theory and Policy, Presidency University, Kolkata  
--9th Annual CECFEE Research and Policy Workshop, University of Kashmir
+-9th Annual CECFEE Research and Policy Workshop, University of Kashmir  
 -11th SERI Workshop, Shiv Nadar Institute of Eminence  
 -11th ECINEQ Conference, World Bank, Washington DC  
 -International Conference on Trade and Environment, Shiv Nadar Institute of Eminence, _(Discussant)_  
