@@ -2,7 +2,10 @@
 title: "Conference"
 ---
 ### 2025 
--9th Annual CECFEE Research and Policy Workshop
+-Global GLO-JOPE Conference, Bonn, Germany  
+-20th Annual Conference on Economic Growth and Development, Indian Statistical Institute, Delhi
+-5th International Conference on Issues in Economic Theory and Policy, Presidency University, Kolkata
+-9th Annual CECFEE Research and Policy Workshop, University of Kashmir
 -11th SERI Workshop, Shiv Nadar Institute of Eminence  
 -11th ECINEQ Conference, World Bank, Washington DC  
 -International Conference on Trade and Environment, Shiv Nadar Institute of Eminence, _(Discussant)_  
@@ -13,8 +16,8 @@ title: "Conference"
 -IMR Doctoral Conference, IIM Bangalore (Awarded Best Paper)  
 -Annual Conference in Economics & Finance, BITS Pilani, Hyderabad  
 ### 2023
--Annual Conference on Economic Growth and Development, Indian Statistical Institute, Delhi  
--International Conference on Issues in Economic Theory and Policy, Presidency University, Kolkata
+-18th Annual Conference on Economic Growth and Development, Indian Statistical Institute, Delhi  
+-3rd International Conference on Issues in Economic Theory and Policy, Presidency University, Kolkata
 
 Workshops
 ======
