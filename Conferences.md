@@ -1,6 +1,14 @@
 ---
 title: "Conference"
 ---
+### 2026  
+- AMIE’s 5th Workshop in Applied Microeconomics 2026  
+- The LEO Economics Conference, Plaksha University  
+- Applied Young Economists Webinar, Monash University  
+- 5th Annual SERI-Doctoral Conference, Ahmedabad University  
+- IIM Calcutta Economics Research Conference  
+- Development Economics Research Connect Webinar  
+-Global GLO-JOPE Conference, Bonn, Germany  
 ### 2025 
 -Global GLO-JOPE Conference, Bonn, Germany  
 -20th Annual Conference on Economic Growth and Development, Indian Statistical Institute, Delhi  
