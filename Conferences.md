@@ -2,6 +2,8 @@
 title: "Conference"
 ---
 ### 2026  
+- Royal Economic Society Annual Conference, University of Newcastle
+- 21st World Congress of the International Economic Association, Belgrade, Serbia
 - AMIE’s 5th Workshop in Applied Microeconomics 2026  
 - The LEO Economics Conference, Plaksha University  
 - Applied Young Economists Webinar, Monash University  
