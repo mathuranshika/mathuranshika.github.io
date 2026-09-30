@@ -10,7 +10,6 @@ title: "Conference"
 - 5th Annual SERI-Doctoral Conference, Ahmedabad University  
 - IIM Calcutta Economics Research Conference  
 - Development Economics Research Connect Webinar  
-- Global GLO-JOPE Conference, Bonn, Germany
 
 ### 2025 
 - Global GLO-JOPE Conference, Bonn, Germany  
